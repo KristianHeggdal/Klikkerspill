@@ -1,0 +1,29 @@
+
+
+.main{
+    width: 6cm;
+    background-color: lightgrey;
+padding: 10px;
+
+}
+
+.foretak{
+width: 4cm;
+display: flex;
+flex-direction: column;
+padding:5%;
+}
+
+.buttons{
+display: flex;
+flex-direction: column;
+width: 2cm;
+
+}
+.container{
+display: flex;
+justify-content: space-between;
+align-items: flex-start;
+width: 100%;
+
+}
